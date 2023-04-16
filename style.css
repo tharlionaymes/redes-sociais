@@ -31,11 +31,33 @@ main{
     transform: translate(-50%, -50%);
     height: 627px;
     width: 380px;
-    background: url(imagens/frame-iphone12.png) no-repeat ;
+    background: url(imagens/frame-iphone.png) no-repeat ;
 }
 
-/*#tela{
+#tela{
     position: relative;
-    top: 100px;
+    top: 80px;
     left: 22px;
-}*/
+    width: 269px;
+    height: 471px;
+}
+
+#redes-sociais{
+    text-align: right;
+}
+
+img:hover{
+    border: 2px solid rgb(178, 1, 2);
+    transition: transform .3s;
+    transform: scale(1.3);
+    /*transform: rotate(360deg);
+    */
+}
+
+img{
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 2px 2px 25px 5px rgba(0, 0, 0, 0.473);
+    box-sizing: border-box;
+}
