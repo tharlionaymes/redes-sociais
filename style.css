@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url(imagens/fundo-preto-luz.jpg) no-repeat top center;
+    background: url(imagens/fundo-hexagons.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -29,7 +29,7 @@ main{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
+    height: 614px;
     width: 311px;
-    background: url(imagens/frame-iphon8.png) no-repeat ;
+    background: url(imagens/frame-iphonex.png) no-repeat ;
 }
