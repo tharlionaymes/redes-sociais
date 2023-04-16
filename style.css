@@ -29,7 +29,13 @@ main{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 614px;
-    width: 311px;
-    background: url(imagens/frame-iphonex.png) no-repeat ;
+    height: 627px;
+    width: 380px;
+    background: url(imagens/frame-iphone12.png) no-repeat ;
 }
+
+/*#tela{
+    position: relative;
+    top: 100px;
+    left: 22px;
+}*/
