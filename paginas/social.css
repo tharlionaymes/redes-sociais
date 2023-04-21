@@ -13,7 +13,7 @@
 
 img{
     width: 100vw;
-    
+    scroll-behavior: auto;
 }
 
 .link-linkedin{
@@ -25,6 +25,7 @@ img{
     font-weight: bolder;
     text-decoration: none;
     cursor: pointer;
+    
 }
 
 .link-linkedin:hover{
@@ -34,7 +35,7 @@ img{
 
 .link-github{
     display: block;
-    background-color: #40664A;
+    background-color: #40C463;
     color: white;
     padding: 20px;
     text-align: center;
@@ -44,7 +45,7 @@ img{
 }
 
 .link-github:hover{
-    background-color: #40C463;
+    background-color: #40664A;
     color: black;
 }
 
